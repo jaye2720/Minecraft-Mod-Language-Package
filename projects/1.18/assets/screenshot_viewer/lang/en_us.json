@@ -18,7 +18,6 @@
   "screen.screenshot_viewer.delete_prompt.message": "Are you sure you want to delete this screenshot ?",
   "screen.screenshot_viewer.rename_screenshot": "Enter a new name for your screenshot:",
   "screen.screenshot_viewer.field.screenshot_name": "New screenshot name",
-
   "screen.screenshot_viewer.config": "Screenshot Viewer Config",
   "config.screenshot_viewer.show_button_in_game_pause_menu": "Show Button In Pause Menu",
   "config.screenshot_viewer.show_button_in_game_pause_menu.desc": "Shows a button to access screenshots directly in the pause menu.",
@@ -40,6 +39,5 @@
   "config.screenshot_viewer.screenshot_element_text_color.desc": "Color of the texts describing the screenshots elements.",
   "config.screenshot_viewer.default_list_order": "Default Screenshot List Ordering",
   "config.screenshot_viewer.default_list_order.desc": "The ordering of the screenshots when the screen is opened.",
-
   "key.screenshot_viewer.open_screenshots_screen": "Open Screenshot Manager"
 }
